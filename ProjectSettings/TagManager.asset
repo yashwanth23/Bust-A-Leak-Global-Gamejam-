@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moon
+  - Sun
+  - crack
+  - glow_crack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1004966195
+    locked: 0
+  - name: Cracks
+    uniqueID: 1027357725
+    locked: 0
+  - name: Gum
+    uniqueID: 1564978089
+    locked: 0
+  - name: Sun
+    uniqueID: 2628590933
+    locked: 0
+  - name: Sky
+    uniqueID: 2212876931
+    locked: 0
